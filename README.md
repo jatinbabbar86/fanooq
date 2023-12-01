@@ -1,0 +1,2 @@
+# fanooq
+wordpress plugin - chatgpt
